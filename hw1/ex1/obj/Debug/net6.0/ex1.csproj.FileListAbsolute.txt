@@ -1,0 +1,15 @@
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\bin\Debug\net6.0\ex1.exe
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\bin\Debug\net6.0\ex1.deps.json
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\bin\Debug\net6.0\ex1.runtimeconfig.json
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\bin\Debug\net6.0\ex1.dll
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\bin\Debug\net6.0\ex1.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.dll
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\refint\ex1.dll
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ex1.genruntimeconfig.cache
+E:\Users\Сергей\Desktop\GB\c_sharp_sems\HomeWorks\hw1\ex1\obj\Debug\net6.0\ref\ex1.dll
