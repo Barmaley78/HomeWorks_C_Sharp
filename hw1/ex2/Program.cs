@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Введите три числа");
+string num1Str = Console.ReadLine();
+string num2Str = Console.ReadLine();
+string num3Str = Console.ReadLine();
+int num1 = int.Parse(num1Str);
+int num2 = int.Parse(num2Str);
+int num3 = int.Parse(num3Str);
+int max = num1;
+if(max < num2) max = num2;
+if(max < num3) max = num3;
+Console.WriteLine($"Максимальное число {max}");
