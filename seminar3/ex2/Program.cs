@@ -4,19 +4,19 @@
 int GetNum(string mess)
 {
     int result;
-while (true)
-{
-    Console.WriteLine(mess);
-    if(int.TryParse(Console.ReadLine(), out int num) && num != 0)
+    while (true)
     {
-        result = num;
-        break;
+        Console.WriteLine(mess);
+        if(int.TryParse(Console.ReadLine(), out int num) && num != 0)
+        {
+            result = num;
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Ввели не число или число равное нулю. повторите ввод \n");
+        }
     }
-    else
-    {
-        Console.WriteLine("Ввели не число или число равное нулю. повторите ввод \n");
-    }
-}
     return result;
 }
 
