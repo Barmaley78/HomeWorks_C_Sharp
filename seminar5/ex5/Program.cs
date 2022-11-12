@@ -29,10 +29,12 @@ void PrintArray(int[] array)
 
 void PrintP(int[] array)
 {
+    
     for (int i = 0; i < array.Length / 2; i++)
-    {
+    {        
         Console.Write($"{array[i] * array[array.Length - i - 1]} ");
     }
+    if(array.Length % 2 != 0) Console.Write(array[array.Length / 2]);
     Console.WriteLine();
 }
 
