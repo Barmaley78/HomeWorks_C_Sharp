@@ -7,7 +7,7 @@ int[] InitArray()
 {
     int[] result = new int[12];
     Random rnd = new Random();
-    for (int i = 0; i < result.length; i++)
+    for (int i = 0; i < result.Length; i++)
     {
         result[i] = rnd.Next(-9,10);
     }
@@ -16,7 +16,7 @@ int[] InitArray()
 
 void PrintArray(int[] array)
 {
-    for (int i = 0; i < array.length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
         Console.Write($"{array[i]} ");
     }
