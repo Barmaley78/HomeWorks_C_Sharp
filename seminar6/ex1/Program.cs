@@ -36,3 +36,26 @@ int n = GN("Введите n");
 int[,] matr = new int[int m, int n];
 FillArray(matr);
 PrintArray(matr);
+
+
+int GetNumber(string msg)
+{
+    Console.Write(msg);
+    int message = Convert.ToInt32(Console.ReadLine());
+    return message;
+}
+
+void Check(int a, int b, int c)
+{
+    if(a < (b + c) && b < (a + c) && c<(a + b))
+    Console.WriteLine("Такой треугольник существует");
+    else 
+    Console.WriteLine("Такой треугольник НЕ существует");
+}
+
+
+int numberA = GetNumber("Введите первое число:");
+int numberB = GetNumber("Введите второе число:");
+int numberC = GetNumber("Введите третье число:");
+
+Check(numberA, numberB, numberC);
