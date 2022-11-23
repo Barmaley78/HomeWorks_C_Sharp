@@ -17,13 +17,15 @@ int[,,] InitArray(int x, int y, int z)
 {
     int[,,] tempArray = new int[x, y, z];
     Random rnd = new Random();
+    int st = rnd.Next(10,21);
     for (int i = 0; i < tempArray.GetLength(0); i++)
     {
         for (int j = 0; j < tempArray.GetLength(1); j++)
         {
             for (int k = 0; k < tempArray.GetLength(2); k++)
             {
-                tempArray[i, j, k] = rnd.Next(0, 100);
+                tempArray[i, j, k] = st;
+                st = st + rnd.Next(1,10);
             }            
         }
     }
